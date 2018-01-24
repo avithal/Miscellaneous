@@ -1,3 +1,9 @@
+
+""" RNN Binary addition
+
+ Simple python program For simple RNN with sigmoid activation
+"""
+
 import copy
 import numpy as np
 
